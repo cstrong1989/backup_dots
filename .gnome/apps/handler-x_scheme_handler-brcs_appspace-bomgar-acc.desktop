@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Access Console BRCS Handler
+Exec="/home/chadstrong/.bomgar-acc/appspace.beyondtrustcloud.com/bomgar-acc" "--run-script" "%u"
+Categories=Other
+NoDisplay=1
+Terminal=false
+StartupNotify=false
+MimeType=x-scheme-handler/brcs-appspace
+OnlyShowIn=Old;

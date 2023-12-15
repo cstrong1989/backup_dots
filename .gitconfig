@@ -1,0 +1,11 @@
+[user]
+	email = chad.strong@appspace.com
+	name = Chad
+[safe]
+	directory = /home/chadstrong/git/as-deploy-scripts
+	directory = /home/chadstrong/git/cloud-environments
+	directory = /home/chadstrong/git/iac-appspace-components
+	directory = /home/chadstrong/git/windows-automation-scripts
+	directory = /home/chadstrong/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+[credential]
+	helper = store
